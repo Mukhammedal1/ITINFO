@@ -1,0 +1,56 @@
+{{!-- <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{title}}</title>
+    <style>
+        #div2{
+            border: 2px solid black;
+            padding: 10px 10px;
+            margin: 20px 15px;
+        }
+        ul div li{
+            list-style-type: none;
+        }
+    </style>
+  </head>
+
+  <body>
+
+    <div>
+      <ul>
+        {{#each authors}}
+          <div id="div2">
+            <li>{{this.first_name}}</li>
+            <li>{{this.last_name}}</li>
+            <li>{{this.nick_name}}</li>
+            <li>{{this.email}}</li>
+            <li>{{this.phone}}</li>
+            <li>{{this.position}}</li>
+          </div>
+        {{/each}}
+      </ul>
+    </div>
+
+  </body>
+</html> --}}
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{title}}</title>
+
+  </head>
+  <body>
+    <ul id="author-list">
+
+    </ul>
+
+    <script src="./JS/author_authorizat.js"></script>
+
+    <script>
+      getAuthors()
+    </script>
+  </body>
+</html>

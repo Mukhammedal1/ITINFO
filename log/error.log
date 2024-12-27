@@ -1,0 +1,74 @@
+2024-12-23T11:11:44.517Z [32minfo[39m: Log Malumotlari
+2024-12-23T11:11:44.522Z [31merror[39m: Error Malumotlari
+2024-12-23T11:11:44.523Z [33mwarn[39m: warn Malumotlari
+2024-12-23T11:11:44.524Z [32minfo[39m: info Malumotlari
+2024-12-23T11:11:57.021Z [32minfo[39m: Log Malumotlari
+2024-12-23T11:11:57.030Z [31merror[39m: Error Malumotlari
+2024-12-23T11:11:57.031Z [33mwarn[39m: warn Malumotlari
+2024-12-23T11:11:57.032Z [32minfo[39m: info Malumotlari
+2024-12-23T11:12:14.280Z [31merror[39m: Error Malumotlari
+2024-12-23T11:12:21.174Z [31merror[39m: Error Malumotlari
+2024-12-23T11:12:21.174Z [31merror[39m: Error Malumotlari
+2024-12-23T11:13:47.944Z error: Error Malumotlari
+2024-12-23T11:13:47.944Z error: Error Malumotlari
+2024-12-23T11:13:56.073Z error: Error Malumotlari
+2024-12-23T11:14:04.212Z error: Error Malumotlari
+2024-12-23T11:15:11.949Z error: Error Malumotlari
+2024-12-23T11:15:27.392Z error: Error Malumotlari
+2024-12-23T11:15:39.504Z error: Error Malumotlari
+2024-12-23T11:16:52.910Z error: Error Malumotlari
+2024-12-23T11:16:56.915Z error: Error Malumotlari
+2024-12-23T11:17:18.989Z error: Error Malumotlari
+2024-12-23T11:17:22.127Z error: Error Malumotlari
+2024-12-23T11:17:44.063Z error: Error Malumotlari
+2024-12-23T11:17:59.356Z error: Error Malumotlari
+2024-12-23T11:20:02.861Z error: Error Malumotlari
+2024-12-23T11:20:08.652Z error: Error Malumotlari
+2024-12-23T11:20:26.709Z error: Error Malumotlari
+2024-12-23T11:20:40.165Z error: Error Malumotlari
+2024-12-23T11:20:48.558Z error: Error Malumotlari
+2024-12-23T11:20:58.295Z error: Error Malumotlari
+2024-12-23T11:21:08.029Z error: Error Malumotlari
+2024-12-23T11:21:38.774Z error: Error Malumotlari
+2024-12-23T11:21:44.062Z error: Error Malumotlari
+2024-12-23T11:25:37.214Z error: Expected ',' or '}' after property value in JSON at position 47
+2024-12-23T11:25:42.474Z error: Error Malumotlari
+2024-12-23T11:32:28.956Z error: Error Malumotlari
+2024-12-23T11:33:42.366Z error: Error Malumotlari
+2024-12-23T11:34:13.035Z error: Error Malumotlari
+2024-12-23T11:38:04.662Z error: Expected ',' or '}' after property value in JSON at position 47
+2024-12-23T11:38:39.484Z error: Error Malumotlari
+2024-12-23T11:39:04.072Z error: Error Malumotlari
+2024-12-23T11:43:49.248Z error: Error Malumotlari
+2024-12-23T11:44:32.471Z error: Error Malumotlari
+2024-12-23T11:44:48.327Z error: Error Malumotlari
+2024-12-23T11:48:14.273Z error: Error Malumotlari
+2024-12-23T11:48:25.271Z error: Expected ',' or '}' after property value in JSON at position 47
+2024-12-24T08:59:46.384Z error: Error Malumotlari
+2024-12-25T07:48:35.620Z error: Missing helper: "forEach"
+2024-12-25T07:53:48.996Z error: unhandledRejection: callback is not a function
+TypeError: callback is not a function
+    at ExpressHandlebars.<anonymous> (C:\Users\Avrora\Desktop\ITINFO\node_modules\express-handlebars\dist\express-handlebars.js:221:17)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\Avrora\Desktop\ITINFO\node_modules\express-handlebars\dist\express-handlebars.js:10:58)
+2024-12-25T08:01:27.563Z error: unhandledRejection: mavzular.json is not a function
+TypeError: mavzular.json is not a function
+    at C:\Users\Avrora\Desktop\ITINFO\routes\view.routes.js:21:33
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-25T09:10:43.925Z error: E11000 duplicate key error collection: test.authors index: email_1 dup key: { email: "odiljonovmuhammadali742@gmail.com" }
+2024-12-25T19:42:02.318Z error: Cannot read properties of null (reading 'password')
+2024-12-25T19:44:26.925Z error: Cannot read properties of null (reading 'password')
+2024-12-25T19:48:11.061Z error: Cannot read properties of null (reading 'password')
+2024-12-26T08:58:39.911Z error: read ECONNRESET
+2024-12-26T08:58:46.437Z error: read ECONNRESET
+2024-12-26T09:01:51.906Z error: read ECONNRESET
+2024-12-26T12:19:07.733Z error: Cannot read properties of null (reading 'password')
+2024-12-26T12:19:17.023Z error: Cannot read properties of null (reading 'password')
+2024-12-26T12:20:26.692Z error: Cannot read properties of null (reading 'password')
+2024-12-26T12:22:56.650Z error: Cannot read properties of null (reading 'password')
+2024-12-26T12:36:13.404Z error: Cannot set headers after they are sent to the client
+2024-12-26T12:58:54.335Z error: read ECONNRESET
+2024-12-26T12:58:56.422Z error: read ECONNRESET
+2024-12-26T12:58:56.933Z error: read ECONNRESET
+2024-12-26T12:58:57.883Z error: read ECONNRESET
+2024-12-26T12:59:04.157Z error: read ECONNRESET

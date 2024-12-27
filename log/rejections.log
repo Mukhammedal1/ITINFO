@@ -1,0 +1,9 @@
+2024-12-25T07:53:48.996Z error: unhandledRejection: callback is not a function
+TypeError: callback is not a function
+    at ExpressHandlebars.<anonymous> (C:\Users\Avrora\Desktop\ITINFO\node_modules\express-handlebars\dist\express-handlebars.js:221:17)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\Avrora\Desktop\ITINFO\node_modules\express-handlebars\dist\express-handlebars.js:10:58)
+2024-12-25T08:01:27.563Z error: unhandledRejection: mavzular.json is not a function
+TypeError: mavzular.json is not a function
+    at C:\Users\Avrora\Desktop\ITINFO\routes\view.routes.js:21:33
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

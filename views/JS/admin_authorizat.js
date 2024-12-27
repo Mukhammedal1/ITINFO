@@ -13,7 +13,7 @@ async function getAdmins() {
     }
   }
   
-  fetch("http://localhost:3030/api/admin/all", {
+  fetch("http://45.130.148.240:3030/api/admin/all", {
     method: "GET",
     headers: {
       authorization: `Bearer ${accessToken}`,
@@ -56,7 +56,7 @@ function getTokenExpiration(token) {
 
 async function refreshTokenFunc() {
   try {
-    const response = await fetch("http://localhost:3030/api/admin/refresh", {
+    const response = await fetch("http://45.130.148.240:3030/api/admin/refresh", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
